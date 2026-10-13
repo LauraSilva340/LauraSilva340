@@ -1,16 +1,18 @@
-## Hi there 👋
+### Oi, eu sou a Laura Silva! 👋
+> Java Developer in progress ☕
 
-<!--
-**LauraSilva340/LauraSilva340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Quixadá - CE
+💻 Estudante focada em Desenvolvimento Java
 
-Here are some ideas to get you started:
+#### 🚀 Projetos em Java
+- **[gerenciador-de-tarefas](https://github.com/LauraSilva340/gerenciador-de-tarefas)** - Sistema simples para gerenciar tarefas, feito em Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Estou focando em:
+- Java e superando a cada desafio.
+- PS: Aprimorando todos os dias. 
+
+#### 📫 Contato
+- Email: laurasilva6689@gmail.com
+
+---
+⭐ *Codando e crescendo um dia de cada vez.*
